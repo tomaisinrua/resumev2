@@ -1,18 +1,17 @@
+# Resume Mini-Project
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+## Code Institute
+## Full Stack Diploma in Web Development
+
+### User Centric Frontend Development Course
+
+### Languages/Tools used
+        1) HTML 5
+        2) CSS 3
+        3) Bootstrap Library
+        4) font-awesome.css
+        5) hover.css
+        6) Coffee
 
 
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
-
-Happy coding!
-The Cloud9 IDE team
+### Hope you enjoy my Resume Mini-Project
